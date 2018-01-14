@@ -1,4 +1,4 @@
-# TTBA: Thesaurus and Time based Bug-assignment
+# TTBA: Thesaurus and Time based Bug-assignment (outline and directions)
 All the MSBA experiment requirements (data set, code, etc.) are available here.
 The data set for 13 popular Github projects including:
 - 7,438 developers
