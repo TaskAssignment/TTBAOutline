@@ -1,5 +1,5 @@
 # TTBA: Thesaurus and Time based Bug-assignment (outline and directions)
-Plus, the original tf-idf experiment.
+TTBA, plus the original tf-idf experiment.
 
 All the TTBA experiment requirements (data set, code, etc.) are available here.
 The data set for 13 popular Github projects including:
