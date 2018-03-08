@@ -1,11 +1,13 @@
 # TTBA: Thesaurus and Time based Bug-assignment (outline and directions)
-All the MSBA experiment requirements (data set, code, etc.) are available here.
+Plus, the original tf-idf experiment.
+
+All the TTBA experiment requirements (data set, code, etc.) are available here.
 The data set for 13 popular Github projects including:
 - 7,438 developers
 - 64,474 bug reports
 - 93,016 bug-assignments
 
-Our bug assignment Java **code**, the **data set** (which is also used as input of our code), **output** and **documentations** can be accessed from: 
+Our bug assignment Java **code**, two versions of the the **data set** (one for the TTBA, and another for the original tf-idf experiment. These are also used as inputs of our code), **output** and **documentations** can be accessed from: 
 
 - **https://github.com/TaskAssignment/TTBA**
 (This is a private repository and you need access to see the repository, otherwise you will get a "404" error)
