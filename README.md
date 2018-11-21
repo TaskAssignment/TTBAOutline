@@ -9,7 +9,7 @@ The data set for 13 popular Github projects including:
 
 Our bug assignment Java **code**, two versions of the the **data set** (one for the TTBA, and another for the original tf-idf experiment. These are also used as inputs of our code), **output** and **documentations** can be accessed from: 
 
-- **https://github.com/TaskAssignment/TTBA**
+- **https://github.com/TaskAssignment/VTBA**
 (This is a private repository and you need access to see the repository, otherwise you will get a "404" error)
 
 If you need asccess to the repository, please contact alisajedi@ualberta.ca stating your name and affiliation.
