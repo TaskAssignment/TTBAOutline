@@ -1,4 +1,4 @@
-# TTBA: Thesaurus and Time based Bug-assignment (outline and directions)
+# TTBA: Thesaurus and Time based Bug-assignment (also called VTBA; Vocabulary and Time based Bug-assignment) (outline and directions)
 TTBA, plus the original tf-idf experiment.
 
 All the TTBA experiment requirements (data set, code, etc.) are available here.
